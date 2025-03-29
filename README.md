@@ -20,4 +20,4 @@ Linux_CleanUp_Script 是一个专为Linux服务器设计的 Bash 脚本，专注
 ### 运行脚本
 在终端运行以下命令：
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/shannonlog2n/Linux_CleanUp_Script/main/server_cleanup.sh)
+bash <(curl -s https://raw.githubusercontent.com/fjidbajd/fork-Linux_CleanUp_Script/refs/heads/main/server_cleanup.sh)
